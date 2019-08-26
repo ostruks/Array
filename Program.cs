@@ -13,6 +13,8 @@ namespace ConsoleRelease2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Vasyl Travin testing changes.");
+
             ArraInt array = new ArraInt(10);
 
             Console.WriteLine(array.GetSum());
