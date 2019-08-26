@@ -25,6 +25,8 @@ namespace ConsoleRelease2
 
 
             Console.ReadKey();
+            Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
